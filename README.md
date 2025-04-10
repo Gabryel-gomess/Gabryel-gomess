@@ -7,7 +7,7 @@ Tenho muito interesse em aprender cada vez mais e **busco uma oportunidade de es
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/gabryel-gomes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabryel-gomes/)
 [![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail&logoColor=white)](mailto:gomesgabryel142@gmail.com)
 
 ---
