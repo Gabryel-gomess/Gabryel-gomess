@@ -22,7 +22,4 @@ Tenho muito interesse em aprender cada vez mais e **busco uma oportunidade de es
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
 </p>
 
-<!---
-Gabryel-gomess/Gabryel-gomess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
